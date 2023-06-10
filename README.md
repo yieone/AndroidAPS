@@ -74,3 +74,4 @@ Please follow these steps:
 * 下载`Artifacts`中的编译产物`aaps.zip`
 
 * 增加一行，触发编译by eone
+* delete the last line，触发编译
